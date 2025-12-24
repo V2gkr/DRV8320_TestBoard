@@ -1,1 +1,4 @@
 Record=TopLevelDocument|FileName=BLDC_test.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BLDC_test.SchDoc|FileName=CAN.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BLDC_test.SchDoc|FileName=Inverter.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BLDC_test.SchDoc|FileName=MCU.SchDoc|SheetNumber=3
